@@ -1,11 +1,11 @@
 {"response": [ 
 {
-"datetime": 1629065272,
-"filename": "StellarOS-S1.0-Aquarix-20210815-OFFICIAL-s2.zip",
-"id": "ceb4cb4145067bb4c003f0327ba1c81001b2b9f3ce483af4f6b11b9c0f637150",
+"datetime": 1632448946,
+"filename": "StellarOS-1.1-Bellatrix-20210924-OFFICIAL-s2.zip",
+"id": "65f05e4c069eeccae3d1976207dd6b2bb76e2f2f8dd352b50a92172ce887bda3",
 "romtype": "official",
-"size": 737390660,
-"url": "https://downloads.sourceforge.net/project/stellar-os/s2/StellarOS-S1.0-Aquarix-20210815-OFFICIAL-s2.zip",
-"version": "S1.0"
+"size": 753739027,
+"url": "https://downloads.sourceforge.net/project/stellar-os/s2/StellarOS-1.1-Bellatrix-20210924-OFFICIAL-s2.zip",
+"version": "S1.1"
 } 
 ]}
